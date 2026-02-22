@@ -184,8 +184,8 @@ http://localhost:5173
 
 ## 👨‍💻 Author
 
-**Aakash Puri**
-Computer Science & Business Systems
+**Aakash Puri**     
+Computer Science & Business Systems     
 Java Full Stack Developer (Fresher)
 
 ---
