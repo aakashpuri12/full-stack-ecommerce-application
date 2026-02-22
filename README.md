@@ -189,12 +189,3 @@ Computer Science & Business Systems
 Java Full Stack Developer (Fresher)
 
 ---
-
-## ⭐ Contribution
-
-Contributions and suggestions are welcome!
-
----
-
-Agar chaho next me de sakta hoon 🔥
-👉 **README badges + screenshots + API documentation section** (GitHub ko ⭐ attract karne wala version).
